@@ -1,0 +1,66 @@
+
+@media screen and{max-width : 768px}
+    
+
+    .box1{
+        display: flex;
+        flex-flow: column wrap;
+        
+    }
+
+
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /* width: 1245px; */
+
+}
+body{
+    background-color: rgb(56, 87, 97);
+}
+.box1 img{
+    width: 230px;
+    height: 180px;
+
+}
+figure{
+    background-color: rgba(32, 30, 30, 0.836);
+
+}
+figcaption{
+    color: aliceblue;
+
+
+}
+.row2 img {
+    width: 540px;
+    height: 180px;
+
+}
+.row3 img{
+    width: 855px;
+    height: 180px;
+
+}
+.box4 img{
+    width: 230px;
+    height: 180px;
+
+}
+.row4 img{
+    width: 1165px;
+    height: 180px;
+
+}
+.row5 img{
+    width: 230px;
+    height: 180px;
+
+}
+.box5 img{
+    width: 540px;
+    height: 180px;
+
+}
